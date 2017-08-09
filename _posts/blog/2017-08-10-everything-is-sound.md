@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Everything is Sound
-date: 2017-08-10T09:44:47+10:00
+date: 2017-08-09T23:44:47.000Z
 thumbnail: /images/uploads/IMG_1051.jpeg
 rating: '4'
 ---
@@ -9,3 +9,4 @@ rating: '4'
 * should 
 - always 
 - be visible
+
